@@ -9,11 +9,24 @@
 **Passo a passo:**
 
 1. Acessar página de login do sistema Real World App.
-2. Inserir um e-mail válido no campo de "E-mail".
-3. Inserir uma senha váliida no campo de "senha".
+2. Inserir um usuário válido no campo de "Username".
+3. Inserir uma senha váliida no campo de "Password".
 4. Clicar no botão de cadastro.
 
 **Resultado esperado:**
 - O sistema autentica o usuário e a ação de login ocorre normalmente, redirecionando para a página inicial.
 
+**Resultado obtido:**
+- Sistema autenticou o usuário e foi redirecionado para a página inicial.
+
+**Status:**
+- Passou.
+
+##Evidências
+
+**Tela inicial:**
+![Tela de login](../Imagens/Tela-login.png)
+
+**Tela após login bem sucedido:**
+![Página inicial](../Imagens/Pagina-inicial-sucesso.png)
 
