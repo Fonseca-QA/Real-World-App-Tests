@@ -22,7 +22,7 @@
 **Status:**
 - Passou.
 
-##Evidências
+##Evidências:
 
 **Tela inicial:**
 ![Tela de login](./Imagens/tela-login.png)
