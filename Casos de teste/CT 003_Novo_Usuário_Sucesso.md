@@ -34,7 +34,7 @@ Validar se o sistema permite o cadastro de um novo usuário utilizando credencia
 
 ## Evidências
 **Tela de registro preenchida:**
-![Tela de registro preenchida](./imagens/cadastro-sucesso.png)
+![Tela de registro preenchida](./Imagens/cadastro-sucesso.png)
 
  **Login com novo usuario:**
-![Mensagem de sucesso](./imagens/novo-login.png)
+![Mensagem de sucesso](./Imagens/novo-login.png)
