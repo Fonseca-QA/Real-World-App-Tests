@@ -25,8 +25,8 @@
 ##Evidências
 
 **Tela inicial:**
-![Tela de login](../Imagens/Tela-login.png)
+![Tela de login](../Imagens/Tela-login.png.png)
 
 **Tela após login bem sucedido:**
-![Página inicial](../Imagens/Pagina-inicial-sucesso.png)
+![Página inicial](../Imagens/Pagina-inicial-sucesso.png.png)
 
