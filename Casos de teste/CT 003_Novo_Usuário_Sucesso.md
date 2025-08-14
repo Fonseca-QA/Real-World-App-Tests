@@ -18,7 +18,7 @@ Validar se o sistema permite o cadastro de um novo usuário utilizando credencia
    - Confirmação de senha: `Senha@123`
 4. Clicar no botão **Sign Up**.
 
-5. Verificar se após a criação do novo usuário com será redirecionado para a página de login.
+5. Verificar se após a criação do novo usuário válido com será redirecionado para a página de login.
 
 
 **Resultado esperado:**
