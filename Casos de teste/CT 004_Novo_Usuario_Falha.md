@@ -1,4 +1,4 @@
-# CT004 - Cadastro de novo usuário com credenciais válidas
+# CT004 - Cadastro de novo usuário com credenciais incompletas
 
 **Descrição:**
 Verificar se o sistema permite o cadastro de um novo usuário ucom informações incompletas e se apresenta mensagem de erro ao tentar registrar.
